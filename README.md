@@ -1,5 +1,7 @@
 Programa em python para descoberta de host via IP dentro de uma rede.
 
+Este script utiliza a biblioteca padrão socketdo Python, então você não precisa instalar nada.
+
 Funciona como uma consulta de DNS reverso onde ele faz a busca pelo IP e tras o Hostname da máquina. Relacionada ao IP passado.
 
 Como o Script Funciona?
